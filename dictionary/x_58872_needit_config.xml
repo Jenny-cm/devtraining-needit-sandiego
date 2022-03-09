@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="config" max_length="40" name="x_58872_needit_config" sizeclass="51" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="CREATE_DATE" max_length="40" name="create_date" type="glide_date_time"/>
+        <element label="CREDENTIALED" max_length="40" name="credentialed" type="integer"/>
+        <element label="ENABLED" max_length="40" name="enabled" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ENDTIME" max_length="40" name="endtime" type="glide_date_time"/>
+        <element label="FOLDER_ID" max_length="40" name="folder_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="LOAD_DATE" max_length="40" name="load_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="NAME" max_length="61" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OWNER" max_length="40" name="owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="POLICY_NAME" max_length="44" name="policy_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RECUR_RULES" max_length="40" name="recur_rules" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SCANNER_NAME" max_length="40" name="scanner_name" type="string"/>
+        <element label="SCAN_ID" max_length="40" name="scan_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="SCHEDULE_UUID" max_length="61" name="schedule_uuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="STARTTIME" max_length="40" name="starttime" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="STATUS" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TIMEZONE" max_length="40" name="timezone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UPDATE_DATE" max_length="40" name="update_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="UUID" max_length="40" name="uuid" type="string"/>
+    </element>
+</database>
